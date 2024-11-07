@@ -174,5 +174,8 @@ textarea{
     width: 200px;
     height: 200px;
 }
+.header a{
+    font-size: 16px;
+}
 }
 
