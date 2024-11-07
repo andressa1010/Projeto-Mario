@@ -156,7 +156,23 @@ textarea{
 .image-mario-luide{
     width: 400px;
 }
+}
 
+@media(max-width: 465px){
+    .logo-mario{
+        height: 100px;
+    }
+    .caixa-container{
+        display: flex;
+        flex-wrap: wrap;
+}
+.caixa-principal{
+    width: 200px;
    
+}
+.image-mario-luide{
+    width: 200px;
+    height: 200px;
+}
 }
 
